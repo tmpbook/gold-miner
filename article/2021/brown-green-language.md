@@ -2,7 +2,7 @@
 > * 原文作者：Adam Gordon Bell
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/article/2021/brown-green-language.md](https://github.com/xitu/gold-miner/blob/master/article/2021/brown-green-language.md)
-> * 译者：
+> * 译者：[tmpbook](https://github.com/tmpbook)
 > * 校对者：
 
 # Green Vs. Brown Programming Languages
